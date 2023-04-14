@@ -1,4 +1,4 @@
-{
+{  "homepage": "https://carlitoxe.github.io/workshop-fetch", 
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
